@@ -1,8 +1,8 @@
 [
     {
       "custom_tweet": 0,
-      "nid": 71,
-      "field_division": "1180",
+      "nid": 81,
+      "field_division": "1178",
       "title": "<Example Title Here>",
       "field_custom_text": "<Custom text EXAMPLE 1 FROM JSON LINK. blah blah blah blah blah #blah #blahblah #blahblahblah >",
       "short_link": "NOT.rcmp-grc.ca/42313",
@@ -13,8 +13,8 @@
     },
     {
       "custom_tweet": 0,
-      "nid": 72,
-      "field_division": "1178",
+      "nid": 82,
+      "field_division": "1179",
       "title": "<Example Title Here>",
       "field_custom_text": "<Custom text EXAMPLE 2 FROM JSON LINK blah blah blah blah blah #blah #blahblah #blahblahblah >",
       "short_link": "NOT.rcmp-grc.ca/42313",
@@ -25,8 +25,8 @@
     },
     {
       "custom_tweet": 0,
-      "nid": 73,
-      "field_division": "1179",
+      "nid": 83,
+      "field_division": "1180",
       "title": "<Example Title Here>",
       "field_custom_text": "<Custom text EXAMPLE 3 FROM JSON LINK. blah blah blah blah blah #blah #blahblah #blahblahblah >",
       "short_link": "NOT.rcmp-grc.ca/42313",
