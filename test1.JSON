@@ -1,7 +1,7 @@
 [
     {
       "custom_tweet": 0,
-      "nid": 150500123456789,
+      "nid": 1505001,
       "field_division": "1178",
       "title": "<Example Title Here>",
       "field_custom_text": "<Custom text EXAMPLE 1 FROM JSON LINK. blah blah blah blah blah #blah #blahblah #blahblahblah >",
@@ -13,7 +13,7 @@
     },
     {
       "custom_tweet": 0,
-      "nid": 15050022334455,
+      "nid": 1505002,
       "field_division": "1179",
       "title": "<Example Title Here>",
       "field_custom_text": "<Custom text EXAMPLE 2 FROM JSON LINK blah blah blah blah blah #blah #blahblah #blahblahblah >",
@@ -25,7 +25,7 @@
     },
     {
       "custom_tweet": 0,
-      "nid": 15050033445566,
+      "nid": 15050036,
       "field_division": "1180",
       "title": "<Example Title Here>",
       "field_custom_text": "<Custom text EXAMPLE 3 FROM JSON LINK. blah blah blah blah blah #blah #blahblah #blahblahblah >",
