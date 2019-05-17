@@ -1,7 +1,7 @@
 [
     {
       "custom_tweet": 0,
-      "nid": 1705004,
+      "nid": 17056,
       "field_division": "1178",
       "title": "<Example Title Here>",
       "field_custom_text": "<Custom text EXAMPLE 1 FROM JSON LINK. blah blah blah blah blah #blah #blahblah #blahblahblah >",
@@ -13,7 +13,7 @@
     },
     {
       "custom_tweet": 0,
-      "nid": 16050022,
+      "nid": 170567,
       "field_division": "1179",
       "title": "<Example Title Here>",
       "field_custom_text": "<Custom text EXAMPLE 2 FROM JSON LINK blah blah blah blah blah #blah #blahblah #blahblahblah >",
@@ -25,14 +25,14 @@
     },
     {
       "custom_tweet": 0,
-      "nid": 1705006,
+      "nid": 1705678,
       "field_division": "1180",
       "title": "<Example Title Here>",
       "field_custom_text": "<Custom text EXAMPLE 3 FROM JSON LINK. Retweet???? blah blah blah blah blah #blah #blahblah #blahblahblah >",
       "short_link": "NOT.rcmp-grc.ca/42313",
       "auto_picture_1": "https://i.imgur.com/xSBO9yb.jpg",
-      "auto_picture_2": "https://i.imgur.com/yCBrx7b.jpg",
-      "auto_picture_3": "https://i.imgur.com/LiDlSuF.jpg",
+      "auto_picture_2": "",
+      "auto_picture_3": "",
       "auto_picture_4": ""
     }
   ]
